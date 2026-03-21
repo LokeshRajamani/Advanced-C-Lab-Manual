@@ -47,7 +47,8 @@ int main() {
 
 ### Output:
 
-![alt text](img/6.png)
+<img width="591" height="244" alt="image" src="https://github.com/user-attachments/assets/e7e78172-f0df-4127-93b6-48dfc3bc5de2" />
+
 
 ### Result:
 Thus, the Program is verified successfully
@@ -89,7 +90,8 @@ int main() {
 
 ### Output:
 
-![alt text](img/7.png)
+<img width="711" height="198" alt="image" src="https://github.com/user-attachments/assets/bbae22e1-b968-415e-875b-a22fe04e0127" />
+
 
 ### Result:
 Thus, the Program is verified successfully
@@ -167,8 +169,9 @@ int main() {
 ```
 
 ### Output:
+<img width="489" height="359" alt="image" src="https://github.com/user-attachments/assets/b638dc0b-732f-4aca-ba45-af0e0d28d314" />
 
-![alt text](img/8.png)
+
 
 ### Result:
 Thus, the  Program is verified successfully
@@ -214,7 +217,8 @@ int main() {
 
 ### Output:
 
-![alt text](img/9.png)
+<img width="741" height="958" alt="image" src="https://github.com/user-attachments/assets/4c147e63-5819-41a5-9775-4bf2e1fc1442" />
+
 
 ### Result:
 Thus, the Program is verified successfully
@@ -258,7 +262,8 @@ void square(){
 
 ### Output:
 
-![alt text](img/10.png)
+<img width="938" height="301" alt="image" src="https://github.com/user-attachments/assets/12fd0cb8-8239-450d-b509-a3a8b0697544" />
+
 
 ### Result: 
 Thus, the Program is verified successfully
