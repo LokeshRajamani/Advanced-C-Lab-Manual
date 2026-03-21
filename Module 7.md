@@ -98,7 +98,8 @@ int main() {
 
 ### Output:
 
-![alt text](img/2.png)
+<img width="884" height="316" alt="image" src="https://github.com/user-attachments/assets/c01b2ccc-16b8-4e82-b550-9b782df1d958" />
+
 
 ### Result:
 Thus, the  Program is verified successfully
@@ -153,7 +154,8 @@ int main()
 
 ### Output:
 
-![alt text](img/3.png)
+<img width="1044" height="384" alt="image" src="https://github.com/user-attachments/assets/3762acb9-c550-4a89-9410-2afba460e1d1" />
+
 
 ### Result:
 Thus, the  Program is verified successfully
@@ -216,7 +218,8 @@ int main() {
 
 ### Output:
 
-![alt text](img/4.png)
+<img width="845" height="373" alt="image" src="https://github.com/user-attachments/assets/af1cebac-08b5-4c08-ad4f-d8dfe164f8be" />
+
 
 ### Result:
 Thus, the  Program is verified successfully
@@ -313,7 +316,8 @@ int main() {
 
 ### Output:
 
-![alt text](img/5.png)
+<img width="848" height="432" alt="image" src="https://github.com/user-attachments/assets/d766534f-b7db-4f1b-b220-6034efbd2720" />
+
 
 ### Result:
 Thus, the Program is verified successfully
