@@ -40,7 +40,8 @@ int main() {
 
 ### Output:
 
-![alt text](img/1.png)
+<img width="663" height="203" alt="image" src="https://github.com/user-attachments/assets/e55af78d-28dc-4964-bdbb-2951763ee843" />
+
 
 ### Result:
 Thus, the Program is verified successfully. 
